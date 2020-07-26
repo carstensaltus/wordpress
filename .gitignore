@@ -1,0 +1,5 @@
+volumes/dump/*
+volumes/phpmyadmin/*
+volumes/wordpress/*
+volumes/mysql/*
+.DS_Store
